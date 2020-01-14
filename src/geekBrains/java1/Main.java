@@ -3,6 +3,9 @@ package geekBrains.java1;
 import java.util.Random;
 import java.util.Scanner;
 
+
+
+
 public class Main {
     public static final char DOT_EMPTY = '.';
     public static char DOT_X = 'X';
