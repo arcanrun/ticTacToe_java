@@ -180,7 +180,6 @@ public class Main {
 
         return false;
     }
-
     public static boolean isEndGame() {
         for (char[] chars : MAP) {
             for (char aChar : chars) {
